@@ -1,5 +1,3 @@
-# aprendendo-html
-Olá, pessoal! Este é o meu projeto criado para aprender os fundamentos de HTML e desenvolvimento web
 # 📘 aprendendo-html
 
 Bem-vindo(a) ao meu projeto **Aprendendo HTML**! 🚀  
